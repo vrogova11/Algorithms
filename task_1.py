@@ -1,5 +1,6 @@
 """
 https://drive.google.com/file/d/1zH1f4k0AT6KrwKlKinLUCrSKuRfeIFwa/view?usp=sharing
+Найти сумму и произведение цифр трехзначного числа, которое вводит пользователь.
 """
 number = int(input('Введите число от 100 до 999: '))
 num_1 = number // 100
